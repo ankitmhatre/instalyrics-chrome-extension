@@ -1,0 +1,11 @@
+{
+    "name": "Lyrics App",
+    "version": "1.0.0",
+    "description": "See the lyrics online",
+    "manifest_version": 3,
+    "author": "Ankit Mhatre",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Web lyrics"
+    }
+}
